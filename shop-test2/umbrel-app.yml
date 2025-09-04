@@ -5,7 +5,7 @@ tagline: Replace this tagline with your app's tagline
 icon: https://i.imgur.com/zElJ6y7.jpeg
 category: Development
 version: "1.0.0"
-port: 4000
+port: 5000
 description: >-
   Super description
 
