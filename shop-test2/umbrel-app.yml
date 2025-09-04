@@ -1,0 +1,26 @@
+manifestVersion: 1
+id: shop-test2
+name: Test2
+tagline: Replace this tagline with your app's tagline
+icon: https://svgur.com/i/mvA.svg
+category: Development
+version: "1.0.0"
+port: 4000
+description: >-
+  Super description
+
+developer: dd
+website: https://f1sport.auto.cz/
+submitter: pp
+submission: https://github.com/getumbrel/umbrel-hello-world-app
+repo: https://github.com/getumbrel/umbrel-hello-world-app
+gallery:
+  - https://i.imgur.com/xhYBOZh.jpeg
+  - https://i.imgur.com/s7XCR4Q.jpeg
+  - https://i.imgur.com/fOdtQwl.jpeg
+releaseNotes: >-
+  Nothing is new
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
