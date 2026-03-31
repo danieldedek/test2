@@ -17,4 +17,4 @@ services:
     user: "1000:1000"
     init: true
     volumes:
-      - ./data/uploads:/app/uploads
+      - ./uploads:/app/uploads
